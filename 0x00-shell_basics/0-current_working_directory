@@ -1,2 +1,2 @@
-#!/bin/bash \n
-echo $PWD \n
+#!/bin/bash 
+echo $PWD 
